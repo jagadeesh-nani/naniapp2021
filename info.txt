@@ -4,4 +4,8 @@ mechanical engineer
 Marathahalli
 Bengalore
 510099
+<<<<<<< HEAD
 svtm college
+=======
+Angallu
+>>>>>>> refs/remotes/origin/main

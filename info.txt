@@ -12,3 +12,4 @@ This is file
 =======
 This is file to learn git
 >>>>>>> 7a5b3afc4aa4283e428ea296f28c4c8a3cdd6241
+Remote changes...

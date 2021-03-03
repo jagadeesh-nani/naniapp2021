@@ -6,6 +6,9 @@ Bengalore
 510099
 svtm college
 Angallu
+<<<<<<< HEAD
 Git is fast and useful
 This is file
-Git is distributed version control system
+=======
+This is file to learn git
+>>>>>>> 7a5b3afc4aa4283e428ea296f28c4c8a3cdd6241
